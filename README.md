@@ -1,5 +1,19 @@
-# INFOSEC-Important-Information!
-----
+# INFOSEC-LRISF
+
+**Laws & Regulations**
+- HIPPA
+- GDPR
+- GLBA
+  
+**Industry Standards**
+- PCI-DSS
+- ISO 27001
+  
+**Frameworks**
+- NIST CSF
+- NIST 800-53
+
+---
 
 # 🌍ISO 27001
 
